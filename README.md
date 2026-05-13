@@ -6,6 +6,8 @@
 
 ## Test
 
+🍜
+
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
 
 You are not limited to LAN only.  
